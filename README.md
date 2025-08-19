@@ -21,8 +21,6 @@ My research interests include:
 - 📧 Email: mb_dod@mail.ustc.edu.cn
 - 🔗 Personal Website: https://bin-m-cnboy.github.io/
 
-# Find More at 🔗 My Homepage: https://bin-m-cnboy.github.io/
-
 ---
 
 *Last updated: [2025.8.19]*
