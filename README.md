@@ -23,5 +23,5 @@ My research interests include:
 
 ---
 
-*Last updated: [2025.8.19]*
+*Last updated: 2025.8.19*
     
