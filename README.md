@@ -14,12 +14,14 @@ My research interests include:
 
 ## 📚 Education
 
-- [2024] - [2028]: [Undergraduate], [Computer Science and Technology], [University Of Science And Technology Of China(USTC)]
+- 2024 - 2028: Undergraduate, Computer Science and Technology, University Of Science And Technology Of China(USTC)
 
 ## 📫 Contact Information
 
-- 📧 Email: [mb_dod@mail.ustc.edu.cn]
-- 🔗 Personal Website: [https://bin-m-cnboy.github.io/]
+- 📧 Email: mb_dod@mail.ustc.edu.cn
+- 🔗 Personal Website: https://bin-m-cnboy.github.io/
+
+# Find More at 🔗 My Homepage: https://bin-m-cnboy.github.io/
 
 ---
 
