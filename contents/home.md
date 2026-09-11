@@ -1,6 +1,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bin--M--cnboy-blue?logo=github)](https://github.com/bin-M-cnboy)
 
-
 I'm currently pursuing a undergraduate's degree in Computer Science and Technology at the Department of Computer Science and Technology, University Of Science And Technology Of China(USTC), China.
 
 #### Email  
@@ -9,7 +8,6 @@ I'm currently pursuing a undergraduate's degree in Computer Science and Technolo
 #### Education  
 **University Of Science And Technology Of China(USTC)**, Undergraduate of Computer Science (2024 – 2028)  
 <!-- • GPA: XX/4.3 -->
-
 
 #### Research Interests  
 Deep learning, Generative model, AI4Sci, Computational biology.
