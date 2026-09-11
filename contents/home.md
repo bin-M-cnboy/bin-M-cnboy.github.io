@@ -1,4 +1,5 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/bin-M-cnboy)
+[![GitHub](https://img.shields.io/badge/GitHub-bin--M--cnboy-blue?logo=github)](https://github.com/bin-M-cnboy)
+
 
 I'm currently pursuing a undergraduate's degree in Computer Science and Technology at the Department of Computer Science and Technology, University Of Science And Technology Of China(USTC), China.
 
