@@ -12,4 +12,4 @@ I'm currently pursuing a undergraduate's degree in Computer Science and Technolo
 
 
 #### Research Interests  
-Deep learning, Generating model, AI4Sci, computational biology.
+Deep learning, Generative model, AI4Sci, Computational biology.

@@ -9,7 +9,9 @@
 I am Ma Bin, a Chinese student pursuing a undergraduate's degree in Computer Science and Technology at the Department of Computer Science and Technology, University Of Science And Technology Of China(USTC).
 
 My research interests include:
-- 💻 GraphRAG
+- Generative model
+- AI4Sci
+- Computational biology
 ...
 
 ## 📚 Education
@@ -23,5 +25,5 @@ My research interests include:
 
 ---
 
-*Last updated: 2025.8.19*
+*Last updated: 2026.9.11*
     
