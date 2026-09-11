@@ -1,5 +1,6 @@
-### **Undergraduate Research Intern**  
-**July 2024 – August 2024 | USTC Intelligent Network and System Group (INT)**  
+## **Undergraduate Research Intern**  
+### USTC Intelligent Network and System Group (INT), USTC(Suzhou)
+**July 2024 – August 2024**  
 <!-- https://int-ustc.github.io/ -->
 Advisor: Prof. Hongli Xu
 
@@ -10,8 +11,8 @@ Focusing on LLM-powered AI agents, with responsibilities including literature su
 
 ---
 
-### **Undergraduate Research Intern**  
-**August 2024 – now | State key laboratory of cognitive intellegence, USTC**  
+### State key laboratory of cognitive intellegence, USTC
+**August 2024 – now**  
 <!-- https://cogskl.iflytek.com/ -->
 Advisor: Prof. Kai Zhang
 
@@ -24,8 +25,8 @@ Focusing on the application of generative AI models in spatial transcriptomics.
 
 ---
 
-### **Undergraduate Research Intern**  
-**July 2026 – now | AI-Driven Drug Discovery & Precision Medicine (AIDDPM), ZJU**  
+### AI-Driven Drug Discovery & Precision Medicine (AIDDPM), ZJU 
+**July 2026 – now**  
 <!-- https://aiddpm.com/ -->
 Advisor: Prof. Wanxiang Shen
 
